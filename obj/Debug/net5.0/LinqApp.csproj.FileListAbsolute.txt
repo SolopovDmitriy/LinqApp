@@ -1,0 +1,16 @@
+D:\c#\lesson82\LinqApp\bin\Debug\net5.0\LinqApp.exe
+D:\c#\lesson82\LinqApp\bin\Debug\net5.0\LinqApp.deps.json
+D:\c#\lesson82\LinqApp\bin\Debug\net5.0\LinqApp.runtimeconfig.json
+D:\c#\lesson82\LinqApp\bin\Debug\net5.0\LinqApp.runtimeconfig.dev.json
+D:\c#\lesson82\LinqApp\bin\Debug\net5.0\LinqApp.dll
+D:\c#\lesson82\LinqApp\bin\Debug\net5.0\ref\LinqApp.dll
+D:\c#\lesson82\LinqApp\bin\Debug\net5.0\LinqApp.pdb
+D:\c#\lesson82\LinqApp\obj\Debug\net5.0\LinqApp.csprojAssemblyReference.cache
+D:\c#\lesson82\LinqApp\obj\Debug\net5.0\LinqApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\lesson82\LinqApp\obj\Debug\net5.0\LinqApp.AssemblyInfoInputs.cache
+D:\c#\lesson82\LinqApp\obj\Debug\net5.0\LinqApp.AssemblyInfo.cs
+D:\c#\lesson82\LinqApp\obj\Debug\net5.0\LinqApp.csproj.CoreCompileInputs.cache
+D:\c#\lesson82\LinqApp\obj\Debug\net5.0\LinqApp.dll
+D:\c#\lesson82\LinqApp\obj\Debug\net5.0\ref\LinqApp.dll
+D:\c#\lesson82\LinqApp\obj\Debug\net5.0\LinqApp.pdb
+D:\c#\lesson82\LinqApp\obj\Debug\net5.0\LinqApp.genruntimeconfig.cache
